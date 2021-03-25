@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  jpn11r
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -32,9 +32,9 @@ minima:
     # keybase: jekyll
 
     # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+    mastodon:
+      - username: jpn11r
+       instance: mastodon.online
     # - username: jekyll2
     #   instance: example.com
 
