@@ -34,7 +34,7 @@ minima:
     # Mastodon instances
     mastodon:
       - username: jpn11r
-       instance: mastodon.online
+        instance: mastodon.online
     # - username: jekyll2
     #   instance: example.com
 
