@@ -2,7 +2,7 @@
 layout: post
 title: "另一种中国性"
 ---
-在 Center for Advanced China Research 发布的 [2021 年《党视》报告](https://www.ccpwatch.org/single-post/party-watch-annual-report-2020-covid-19-and-chinese-communist-party-resilience)中，[黎安友](https://polisci.columbia.edu/content/andrew-j-nathan)写到，
+在 Center for Advanced China Research 发布的 [2020 年《党视》报告](https://www.ccpwatch.org/single-post/party-watch-annual-report-2020-covid-19-and-chinese-communist-party-resilience)中，[黎安友](https://polisci.columbia.edu/content/andrew-j-nathan)写到，
 
 > When Chinese see their government being criticized, for example, for mismanagement of the Covid-19 pandemic, they understand this not only as an attack on the national interest, as discussed above, but also as a denigration of their dignity as Chinese persons. When foreign denunciations of China’s Hong Kong policy or pandemic policies frame China as backward and uncivilized and seem to question the ability of Chinese people to competently manage their own affairs, even a Chinese person who is generally less inclined to accept the government propaganda line is likely to feel misunderstood and disrespected, and to experience these criticisms as ill-informed, stereotyped, and condescending. The Chinese person lives within the system and is part of it. He may not entirely like it, but he finds it functional—mundane rather than hellish. What we in the West often see as speaking up for the freedom of those who are not free to speak for themselves can come across to Chinese people as a denial of their competence and self-regard.
 
