@@ -2,7 +2,7 @@
 layout: post
 title: "民族主义时刻的同构性"
 ---
-如果回顾 [2008 年藏区骚乱](https://zh.wikipedia.org/zh-cn/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1)和 2021 年 3 月新疆棉花争议之后中国与世界的舆论场，不难发现，不同的民族主义顶峰时刻之间具有惊人的同构性（isomorphism）。
+如果回顾 [2008 年藏区骚乱](https://zh.wikipedia.org/zh-cn/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1)和 2021 年 3 月新疆棉花争议之后中国的舆论场，不难发现，不同的民族主义顶峰时刻之间具有惊人的同构性（isomorphism）。
 
 [Cable: 08BEIJING1454_a](https://wikileaks.org/plusd/cables/08BEIJING1454_a.html)
 
